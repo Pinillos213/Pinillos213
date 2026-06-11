@@ -9,3 +9,10 @@
 
 ![Website]( https://img.shields.io/badge/Mi%20contacto%20es%20este-8A2BE2)
 
+## QUe tecnologías uso:
+![Website]( https://img.shields.io/badge/Mi%20contacto%20es%20este-8A2BE2)
+![Website]( https://img.shields.io/badge/Mi%20contacto%20es%20este-8A2BE2)
+![Website]( https://img.shields.io/badge/Mi%20contacto%20es%20este-8A2BE2)
+
+
+
